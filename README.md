@@ -2,7 +2,7 @@
 
 > I am `nt-authority\system` or `root`.
 
-- nigmaz.github.io
+- https://nigmaz.github.io
 
 <!--
 **Nigmaz/Nigmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
