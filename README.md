@@ -1,6 +1,8 @@
-### Hi there 👋 
+### Hi there 👋
 
-> I am `nt-authority\system` or `root`.
+> > > > I'm `"Nigmaz"` >\_
+
+- `nt-authority\system` or `root`.
 
 <!--
 **Nigmaz/Nigmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
