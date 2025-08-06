@@ -2,6 +2,8 @@
 
 > > > > I am ` "Nigmaz" ` \[ >\_$ ]
 
+* Exploit Development | Reverse Engineering | Malware Analysis | ZeroDay Hunting .
+
 ```powershell
 Microsoft Windows [Version xx.y.zzzzz.xyzz]
 (c) Microsoft Corporation. All rights reserved.
@@ -14,6 +16,8 @@ C:\Users\nigmaz>wsl
 root
 (.pwnenv) nigmaz in /home/nigmaz/ # _ 
 ```
+
+* <><><><><><><><><><><><><><><><><><><><><>
 
 <div id="header" align="center">
   <img src="./images/wrapper.gif"/>
