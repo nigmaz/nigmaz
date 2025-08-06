@@ -17,7 +17,7 @@ root
 (.pwnenv) nigmaz in /home/nigmaz/ # _ 
 ```
 
-* <><><><><><><><><><><><><><><><><><><><><>
+* <$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$>
 
 <div id="header" align="center">
   <img src="./images/wrapper.gif"/>
