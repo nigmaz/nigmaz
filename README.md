@@ -2,7 +2,7 @@
 
 > > > > I am ` "Nigmaz" ` \[ >\_$ ]
 
-* Exploit Development | Reverse Engineering | Malware Analysis | ZeroDay Hunting .
+* Exploit Development | Reverse Engineering | Malware Analysis | ZeroDay Research .
 
 ```powershell
 Microsoft Windows [Version xx.y.zzzzz.xyzz]
