@@ -1,8 +1,8 @@
 <h1 align="left" > Hello, World! 👋 </h1>
 
-> > > > I am ` "Nigmaz" ` \[ >\_$ ]
+> > > > I am `"Nigmaz"` \[ >\_$ ]
 
-* Exploit Development | Reverse Engineering | Malware Analysis | ZeroDay Research .
+- Pwnable Exploit | Reverse Engineering | Malware Analysis | ZeroDay Research and Development .
 
 ```powershell
 Microsoft Windows [Version xx.y.zzzzz.xyzz]
@@ -14,10 +14,10 @@ nt-authority\system
 C:\Users\nigmaz>wsl
 (.pwnenv) nigmaz in /home/nigmaz/ # whoami
 root
-(.pwnenv) nigmaz in /home/nigmaz/ # _ 
+(.pwnenv) nigmaz in /home/nigmaz/ # _
 ```
 
-* <$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$>
+- <$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$>
 
 <div id="header" align="center">
   <img src="./images/wrapper.gif"/>
