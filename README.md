@@ -2,7 +2,7 @@
 
 > > > > I am `"Nigmaz"` \[ >\_$ ]
 
-- Pwnable Exploit | Reverse Engineering | Malware Analysis | ZeroDay Research and Development .
+- Pwnable CTFs | Reverse Engineering | Malware Analysis | Vulnerability Research and Exploit Development .
 
 ```powershell
 Microsoft Windows [Version xx.y.zzzzz.xyzz]
