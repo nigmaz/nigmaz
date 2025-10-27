@@ -14,9 +14,9 @@
 
 <h1 align="left" > 🎮 CTFs  </h1>
 
-- 11/2023: 4th Place, Team "PTIT.Sn0rlax" (Group A Finals, "ASCIS - SVATTT 2023") - #15/20 .
+<!-- - 11/2023: 4th Place, Team "PTIT.Sn0rlax" (Group A Finals, "ASCIS - SVATTT 2023") - #15/20 .
 
-- 11/2024: 3rd Place, Team "PTIT.Celebi" (Group A Finals, "ASCIS - SVATTT 2024") - #06/20 .
+- 11/2024: 3rd Place, Team "PTIT.Celebi" (Group A Finals, "ASCIS - SVATTT 2024") - #06/20 . -->
 
 - 10/2025: [#250/36580](https://pwnable.tw/user/30002) on [pwnable.tw](https://pwnable.tw/user/rank)
 
