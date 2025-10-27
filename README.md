@@ -14,7 +14,7 @@
 
 <h1 align="left" > 🎮 CTFs  </h1>
 
-- 11/2023: Team "PTIT.Sn0rlax" #15/20 in Group-A Final "ASCIS - SVATTT 2023"
+- 11/2023: Team "PTIT.Sn0rlax" #15/20 in Group-A Final "ASCIS - SVATTT 2023" .
 
 - 11/2024: Team "PTIT.Celebi" #06/20 in Group-A Final "ASCIS - SVATTT 2024" .
 
