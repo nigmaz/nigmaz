@@ -1,8 +1,26 @@
-<h1 align="left" > Hello, World! 👋 </h1>
+<h1 align="left" > 👋 Hello World, I'm Trần Trọng Huy!  </h1>
 
-> > > > I am `"Nigmaz"` \[ >\_$ ]
+> > > > > aka `"Nigmaz"` .
 
-- Pwnable CTFs | Reverse Engineering | Malware Analysis | Vulnerability Research and Exploit Development .
+- Focus areas: Pwnable CTFs | Reverse Engineering | Malware Analysis | Vulnerability Research and Exploit Development .
+
+<h1 align="left" > 🏆 Achievements  </h1>
+
+<!-- - 02/2025: Found CVE-2023-52927, exploited in kCTF (exp267). [writeup] [poc]
+
+- 10/2025: Pwn2Own Ireland 2025. [ref] -->
+
+- xxxxxxxxxxxxxxxxx
+
+<h1 align="left" > 🎮 CTFs  </h1>
+
+- 11/2023: Team "PTIT.Sn0rlax" #15/20 in Group-A Final ASCIS-2023
+
+- 11/2024: Team "PTIT.Celebi" #06/20 in Group-A Final ASCIS-2024
+
+- 10/2025: [#250/36580](https://pwnable.tw/user/30002) on [pwnable.tw](https://pwnable.tw/user/rank)
+
+> `[ >_$ ]` - "Nigmaz" .
 
 ```powershell
 Microsoft Windows [Version xx.y.zzzzz.xyzz]
@@ -17,7 +35,7 @@ root
 (.pwnenv) nigmaz in /home/nigmaz/ # _
 ```
 
-- <$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$> .
+> <$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$><$> .
 
 <div id="header" align="center">
   <img src="./images/wrapper.gif"/>
@@ -28,11 +46,11 @@ root
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -40,7 +58,3 @@ Here are some ideas to get you started:
 -->
 
 ---
-
-Done!
-
-`">_$ nigmaz"`.
