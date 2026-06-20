@@ -22,7 +22,7 @@
 
 > `[ >_$ ]` - "Nigmaz" .
 
-```powershell
+<!-- ```powershell
 Microsoft Windows [Version xx.y.zzzzz.xyzz]
 (c) Microsoft Corporation. All rights reserved.
 
@@ -39,7 +39,7 @@ root
 
 <div id="header" align="center">
   <img src="./images/wrapper.gif"/>
-</div>
+</div> -->
 
 <!--
 **Nigmaz/Nigmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
